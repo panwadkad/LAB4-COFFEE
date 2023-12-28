@@ -1,0 +1,17 @@
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\bin\Debug\net8.0-windows\LAB4 COFFEE.exe
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\bin\Debug\net8.0-windows\LAB4 COFFEE.deps.json
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\bin\Debug\net8.0-windows\LAB4 COFFEE.runtimeconfig.json
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\bin\Debug\net8.0-windows\LAB4 COFFEE.dll
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\bin\Debug\net8.0-windows\LAB4 COFFEE.pdb
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\obj\Debug\net8.0-windows\LAB4_COFFEE.Form1.resources
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\obj\Debug\net8.0-windows\LAB4_COFFEE.Properties.Resources.resources
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\obj\Debug\net8.0-windows\LAB4 COFFEE.csproj.GenerateResource.cache
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\obj\Debug\net8.0-windows\LAB4 COFFEE.GeneratedMSBuildEditorConfig.editorconfig
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\obj\Debug\net8.0-windows\LAB4 COFFEE.AssemblyInfoInputs.cache
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\obj\Debug\net8.0-windows\LAB4 COFFEE.AssemblyInfo.cs
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\obj\Debug\net8.0-windows\LAB4 COFFEE.csproj.CoreCompileInputs.cache
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\obj\Debug\net8.0-windows\LAB4 COFFEE.dll
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\obj\Debug\net8.0-windows\refint\LAB4 COFFEE.dll
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\obj\Debug\net8.0-windows\LAB4 COFFEE.pdb
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\obj\Debug\net8.0-windows\LAB4 COFFEE.genruntimeconfig.cache
+D:\work code\LAB4 COFFEE\LAB4 COFFEE\obj\Debug\net8.0-windows\ref\LAB4 COFFEE.dll
